@@ -1,4 +1,21 @@
 <resources>
-    <string name="app_name">OneLigthOn</string>
+    <string name="app_name">OneLightOn</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_selection">Scan the chips</string>
+    <string name="features_choice">What do you want to do ?</string>
+    <string name="feature_choice_1">Add a new nail polish</string>
+    <string name="feature_choice_2">Delete a nail polish</string>
+    <string name="new_feature">Not yet implemented</string>
+
+    <string name="first_chip_not_scanned">Scan the first chip </string>
+    <string name="first_chip_scanned_valid">First chip scanned </string>
+    <string name="second_chip_not_scanned">Scan the second chip </string>
+    <string name="second_chip_scanned_valid">Chips successfully added !</string>
+    <string name="already_scanned">Chip already added, scan another chip </string>
+    <string name="already_scanned_reset">Chip already added, scan the first chip again </string>
+
+    <string name="returnHome"> Home Page </string>
+    <string name="addNailAgain"> Scan again </string>
+
+
 </resources>
